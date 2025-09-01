@@ -39,4 +39,5 @@ Sim, porque a View recalcula dinamicamente o `Valor_Total` (Quantidade * Preco_P
 
 ## Conclusão
 
-Projeto realizado pelo grupo 3_4. Este trabalho foi uma oportunidade de aprender a estruturar dados, realizar análises e corrigir problemas como duplicatas em um ambiente de Big Data.
+Projeto realizado pelo grupo 3_4 apesar de estar 3_14 nas análises. Este trabalho foi uma oportunidade de aprender a estruturar dados, realizar análises e corrigir problemas como duplicatas em um ambiente de Big Data.
+
